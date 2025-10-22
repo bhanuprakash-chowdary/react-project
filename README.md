@@ -1,4 +1,6 @@
-# React Jobs Project (YouTube)
+# React Jobs Project 
+
+inital setup npm create vite@latest react-crash-course
 
 <img src="public/screen.png" />
 
