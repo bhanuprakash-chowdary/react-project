@@ -1,6 +1,10 @@
 # React Jobs Project 
 
-inital setup npm create vite@latest react-crash-course
+### inital setup 
+
+```bash
+npm create vite@latest react-crash-course
+```
 
 <img src="public/screen.png" />
 
